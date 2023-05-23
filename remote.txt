@@ -1,2 +1,2 @@
 create new remote file
-made change only in remote
+edit change only in remote
