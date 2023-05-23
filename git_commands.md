@@ -10,3 +10,4 @@
 ## add change from remote again to create conflicts
 
 ## add change only in remote #3
+## add change only in local #3
