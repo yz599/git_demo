@@ -8,3 +8,5 @@
 ## Edit in local repo and push
 ## add change in local repo #2
 ## add change from remote again to create conflicts
+
+## add change only in remote #3
